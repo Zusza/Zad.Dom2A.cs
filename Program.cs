@@ -1,4 +1,4 @@
-﻿//Zad1
+//Zad1
 /*int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
         if ((a+b)%2 == 0)
@@ -53,6 +53,7 @@ else
     Console.WriteLine("Nie");
 */
 //Zad6
+/*
 int s = int.Parse(Console.ReadLine());
 int r = int.Parse(Console.ReadLine());
 int p = int.Parse(Console.ReadLine());
@@ -66,6 +67,6 @@ if ((s + r > p) & (s + p > r) & (r + p > s))
         Console.WriteLine("Trójkąt ostrokątny");
 else
     Console.WriteLine("Nie da się zbudować trójkąta");
-
+*/
 
 
